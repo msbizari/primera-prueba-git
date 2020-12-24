@@ -1,1 +1,3 @@
 qué podemos hacer?
+
+Hay que resolver las consignas propuestas en el pdf: Clase 7 - Clase en vivo: Manejo de proyectos con Git
